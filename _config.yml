@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /icesdp
+exclude: ['README.md',]
