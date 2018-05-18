@@ -43,7 +43,7 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICEPTP 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@ICEPTP.com. You can find the copyright form here: www.ICEPTP.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@iceptp.com. You can find the copyright form here: www.ICEPTP.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
 To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.ICEPTP.com/accommodation/#Novotel
 
@@ -371,7 +371,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@ICEPTP.com">info@ICEPTP.com</a></p>
+    <a href="mailto:info@iceptp.com">info@iceptp.com</a></p>
     </div>
   </div>
 

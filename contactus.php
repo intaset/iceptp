@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@ICEPTP.com";
+$my_email = "info@iceptp.com";
 
 $name=$_POST['Name'];
 $email=$_POST['Email'];
@@ -12,7 +12,7 @@ $captcha = false;
 // check if not robot
 if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
 $captcha = true;
-$secret = '6Lfz9A0TAAAAAOvwGJ7IrHKYrLxjlcDMtFuf-5wh';
+$secret = '6LdNC1oUAAAAAEg4f1AKhLcSi2E3ndzp0lDfau9m';
 //get verify response data
 $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
 $responseData = json_decode($verifyResponse);
@@ -280,7 +280,7 @@ mail($my_email,$subject,$message,$headers);
     Orl&eacute;ans, Ontario, Canada<br>
     Postal Code: K1C 1G1<br>
     +1-613-834-9999<br>
-    <a href="mailto:info@ICEPTP.com">info@ICEPTP.com</a></p>
+    <a href="mailto:info@iceptp.com">info@iceptp.com</a></p>
     </div>
   </div>
 
