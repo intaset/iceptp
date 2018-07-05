@@ -7,225 +7,105 @@
 <!-- www.check-domains.com sitemap generator -->
 
 <url>
-   <loc>http://2019.ICEPTP.com/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <loc>https://iceptp.com/</loc>
+   <lastmod>2018-07-05T18:45:49+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/past-events/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <loc>https://iceptp.com/CSEE18_CFP_Flyer.pdf</loc>
+   <lastmod>2018-07-05T18:57:27+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <loc>https://iceptp.com/past-events/</loc>
+   <lastmod>2018-07-05T18:59:36+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/papers/</loc>
-   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <loc>https://iceptp.com/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-07-05T18:57:27+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://iceptp.com/papers/</loc>
+   <lastmod>2018-07-05T18:59:36+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/program/</loc>
-   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <loc>https://iceptp.com/program/</loc>
+   <lastmod>2018-07-05T18:59:36+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/dates/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <loc>https://iceptp.com/dates/</loc>
+   <lastmod>2018-07-05T18:59:37+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/registration/</loc>
-   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <loc>https://iceptp.com/registration/</loc>
+   <lastmod>2018-07-05T18:59:35+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/committee/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <loc>https://iceptp.com/committee/</loc>
+   <lastmod>2018-07-05T18:59:37+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/keynote/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
+   <loc>https://iceptp.com/keynote/</loc>
+   <lastmod>2018-07-05T18:59:36+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/venue/</loc>
-   <lastmod>2018-02-26T19:48:42+00:00</lastmod>
+   <loc>https://iceptp.com/sponsor/</loc>
+   <lastmod>2018-07-05T18:59:35+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/accommodation/</loc>
-   <lastmod>2018-02-26T16:46:01+00:00</lastmod>
+   <loc>https://iceptp.com/venue/</loc>
+   <lastmod>2018-07-05T18:59:34+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/sponsor/</loc>
-   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <loc>https://iceptp.com/accommodation/</loc>
+   <lastmod>2018-07-05T18:59:37+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/symposium/</loc>
-   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <loc>https://iceptp.com/symposium/</loc>
+   <lastmod>2018-07-05T18:59:34+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/past-events/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
+   <loc>https://iceptp.com/openconf/openconf.php</loc>
+   <lastmod>2018-07-05T18:59:47+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/terms/</loc>
-   <lastmod>2018-02-09T20:40:01+00:00</lastmod>
+   <loc>https://iceptp.com/terms/</loc>
+   <lastmod>2018-07-05T18:59:34+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
-   <loc>http://2019.ICEPTP.com/sitemap/</loc>
-   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
+   <loc>https://iceptp.com/sitemap/</loc>
+   <lastmod>2018-07-05T18:59:35+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/ICEPTP18_Paper_Template.docx</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/ICEPTP18_Extended_Abstract.docx</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/ICEPTP18_CopyrightForm.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/papers/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/program/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/dates/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/registration/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/committee/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/keynote/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/venue/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/accommodation/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/sponsor/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/symposium/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/terms/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/sitemap/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.5120</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/banktobank/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/moneyorder/</loc>
-   <lastmod>2018-02-09T20:40:03+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/paypal/</loc>
-   <lastmod>2018-02-09T20:40:02+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.4096</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/banktobank/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
-</url>
-<url>
-   <loc>http://2019.ICEPTP.com/paypal/CSEE19_CFP_Flyer.pdf</loc>
-   <lastmod>2018-03-05T19:05:30+00:00</lastmod>
-   <changefreq>monthly</changefreq>
-   <priority>0.3277</priority>
 </url>
 </urlset>

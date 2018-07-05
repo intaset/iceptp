@@ -1,3 +1,3 @@
-Sitemap: http://www.ICEPTP.com/sitemap.xml
+Sitemap: https://iceptp.com/sitemap.xml
 
 User-agent: *
