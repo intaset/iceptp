@@ -360,7 +360,7 @@ h1 {
 .subhead {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   padding: 0 1em 1em;
   font-size: 1em!important;
   margin: 0;
@@ -375,13 +375,13 @@ h1 {
 }
 
 .bg-link {
-	border: 1px solid;
+	border: 2px solid;
 	padding: 0.5em;
 	color: #9BC035;
 	text-decoration: none;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: 400;
 	font-size: 1em;
 	display: block;
 	margin: 1em;
@@ -390,7 +390,7 @@ h1 {
 
 .bg-link:hover {
 	background-color: #355D24;
-	border: 1px solid #355D24;
+	border: 2px solid #355D24;
 	color: #FFF;
 }
 
