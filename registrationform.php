@@ -1,5 +1,5 @@
 <?php
-$my_email = "registration@ICEPTP.com";
+$my_email = "registration@iceptp.com";
 $errors = array();
 
 // Remove $_COOKIE elements from $_REQUEST.
@@ -43,11 +43,9 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICEPTP 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@iceptp.com. You can find the copyright form here: www.ICEPTP.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@iceptp.com. You can find the copyright form here: www.iceptp.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
 
-To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: www.ICEPTP.com/accommodation/#Novotel
-
-You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@ICEPTP.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
+You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@iceptp.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
 ---
 
@@ -287,7 +285,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
   <p class="body">If you have requested any official invitation letters, please allow up to 5 business days to receive your documents.</p> 
 
-    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@ICEPTP.com" class="body-link">registration@ICEPTP.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
+    <p class="body">If there are any problems in the information you have filled out, please write an email to us at <a href="mailto:registration@iceptp.com" class="body-link">registration@ICEPTP.com</a> mentioning the mistakes made. Please note that you SHOULD NOT refill the form.</p>
 
   <p class="body">We are looking forward to seeing you at ICEPTP'19!</p>
   </div>
