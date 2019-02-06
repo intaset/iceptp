@@ -43,7 +43,7 @@ $message = 'Dear Colleague,
 
 Thank you for registering for ICEPTP 2019. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
-If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@iceptp.com. You can find the copyright form here: www.iceptp.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
+If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@iceptp.com. You can find the copyright form here: https://iceptp.com/papers/. Please note that failing to do so may result in an unsuccessful process of your registration.
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@iceptp.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
